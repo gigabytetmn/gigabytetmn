@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigabytetmn
-- 👀 I’m interested in programming with C, java, kotlin, php, perl, bash
-- 🌱 I’m currently learning android studio
+- 👀 I’m a network engineer with programming skills.
+- 🌱 I study and work with kubernetes
 
 <!---
 gigabytetmn/gigabytetmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
